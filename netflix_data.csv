@@ -1,0 +1,6 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,genre,listed_in,description
+s1,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,USA,"September 1, 2021",2010,PG-13,148,Action,Action & Adventure,Thriller
+s2,Movie,Toy Story,John Lasseter,Tom Hanks,USA,"December 1, 2020",1995,G,81,Children,Children & Family Movies,Comedy
+s3,Movie,The Irishman,Martin Scorsese,Robert De Niro,USA,"November 27, 2019",2019,R,209,Drama,Dramas,Critically Acclaimed Movies
+s4,Movie,The Lion King,Jon Favreau,Donald Glover,USA,"July 19, 2019",2019,PG,118,Children,Children & Family Movies,Musicals
+s5,Movie,Avengers: Endgame,Anthony Russo,Robert Downey Jr.,USA,"April 26, 2019",2019,PG-13,181,Action,Action & Adventure,Blockbuster
